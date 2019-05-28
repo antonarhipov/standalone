@@ -1,4 +1,3 @@
-import java.util.function.Consumer
 
 //region 1. Productive Coding
 //psvm
@@ -90,12 +89,3 @@ import java.util.function.Consumer
 //2018.3 Run Anything (Ctrl+Ctrl)
 //2018.3 Redesigned UI for Structural search (and Replace)
 //endregion
-
-
-fun function(){
-
-}
-
-private fun thisisMethod(c: Consumer<String>) {
-    println("blah")
-}
