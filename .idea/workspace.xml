@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.36874452" />
+    <option name="CUSTOM_SCOPE_NAME" value="My Sope (org.jb.inspect)" />
+  </component>
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34334dd9-318a-4d1a-a075-7cc839b61202" name="Default" comment="leaner gitignore" />
+    <ignored path="standalone.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="My list">
+      <favorite_root url="com.zt.MyClassIf" module="standalone" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+      <favorite_root url="com.zt.engine.V12" module="standalone" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+      <favorite_root url="file://$PROJECT_DIR$/src/org/asla/Tricks.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="org.asla.Main" module="standalone" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+      <favorite_root url="org.jb.DataFlowInspections" module="standalone" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="JUnit4 Test Class" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+      <find>dsf</find>
+      <find>Э</find>
+      <find>c</find>
+      <find>.</find>
+      <find>public</find>
+      <find>Engine engine \= new Engine\(\) \{\n</find>
+      <find>@since 9</find>
+      <find>est</find>
+      <find>since 9</find>
+      <find>since</find>
+      <find>Customer</find>
+      <find>aaa</find>
+      <find>Foo</find>
+      <find>Ò</find>
+      <find>Reader</find>
+      <find>Array</find>
+      <find>class</find>
+      <find>Tests</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;,&quot;</replace>
+      <replace>ReaderB</replace>
+      <replace>Lists</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/com/zt</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SCOPE" value="All" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Person.java" />
+        <option value="$PROJECT_DIR$/src/Books.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.kts" />
+        <option value="$PROJECT_DIR$/src/blah.js" />
+        <option value="$PROJECT_DIR$/src/org/jb/MainIf.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/Tricks.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/Agenda.kt" />
+        <option value="$PROJECT_DIR$/src/org/jb/exp/Def.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/file.txt" />
+        <option value="$PROJECT_DIR$/src/org/jb/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/engine/CountingHandler.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/JavaDayLviv.kt" />
+        <option value="$PROJECT_DIR$/src/org/jb/duplicates/Tw.java" />
+        <option value="$PROJECT_DIR$/xmlFile.xml" />
+        <option value="$PROJECT_DIR$/src/org/jb/engine/Engine.java" />
+        <option value="$PROJECT_DIR$/src/JavaDayLviv.kt" />
+        <option value="$PROJECT_DIR$/src/org/jb/duplicates/One.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/duplicates/Two.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/duplicates/TwoImpl.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/debug/DebugTwo.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/debug/DebugOne.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/debug/Debug.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/inspect/There.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/inspect/ThisIs.kt" />
+        <option value="$PROJECT_DIR$/test/org/jb/inspect/ThisIsTest.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/inspect/Meta.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/inspect/ThisIs.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/Reader.java" />
+        <option value="$PROJECT_DIR$/file.txt" />
+        <option value="$PROJECT_DIR$/src/org/jb/DataFlowInspections.java" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/some.file" />
+        <option value="$PROJECT_DIR$/src/org/jb/ThisIs.java" />
+        <option value="$PROJECT_DIR$/src/Menlo.java" />
+        <option value="$PROJECT_DIR$/some.yml" />
+        <option value="$PROJECT_DIR$/some.js" />
+        <option value="$PROJECT_DIR$/test/org/jb/ThisIsTest.java" />
+        <option value="$PROJECT_DIR$/src/Agenda.kt" />
+        <option value="$PROJECT_DIR$/src/org/jb/Fib.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/MyEnum.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/HintsForMethodChains.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/inspections/Switch.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/inspections/StringExample.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/Main.java" />
+        <option value="$PROJECT_DIR$/test/org/jb/TestAgain.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/inspections/Sequence.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/DataFlow.java" />
+        <option value="$PROJECT_DIR$/test/org/jb/SomeTest.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="/usr/local/lib/node_modules/bower" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="My Sope (org.jb.inspect)" pattern="src:org.jb.inspect.*" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showExcludedFiles Scope="true" ProjectPane="true" />
+      <hideEmptyPackages ProjectPane="true" />
+      <abbreviatePackageNames ProjectPane="true" />
+      <autoscrollToSource ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="standalone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="standalone" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'My Sope (org.jb.inspect)'; set:src:org.jb.inspect.*; class com.intellij.psi.search.scope.packageSet.NamedScope">
+          <expand>
+            <path>
+              <item name="standalone" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="standalone" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="standalone" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="standalone" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="standalone" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="standalone" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="org" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="standalone" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="standalone" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="org" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="jb" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="standalone" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="standalone" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="org" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="jb" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="inspect" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'My Sope'; set:src:org.jb.debug.*; class com.intellij.psi.search.scope.packageSet.NamedScope">
+          <expand>
+            <path>
+              <item name="standalone" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="standalone" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="standalone" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="standalone" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="standalone" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="standalone" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="org" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="standalone" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="standalone" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="org" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="jb" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="standalone" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="standalone" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="org" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="jb" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="debug" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_RECENT_CHANGED_LOCATIONS" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="call &#9;ACTION&#9;CallHierarchy&#10;extract&#9;ACTION&#9;IntroduceActionsGroup&#10;refactor&#9;ACTION&#9;Refactorings.QuickListPopupAction&#10;regist&#9;ACTION&#9;ShowRegistry&#10;split&#9;ACTION&#9;SplitVertically&#10;split ve&#9;ACTION&#9;SplitVertically&#10;ыздше&#9;ACTION&#9;SplitHorizontally&#10;split mode&#9;ACTION&#9;ToggleSideMode&#10;split ver&#9;ACTION&#9;SplitVertically&#10;scratch&#9;ACTION&#9;NewScratchFile&#10;save as&#9;ACTION&#9;SaveAsTemplate&#10;save as &#9;ACTION&#9;SaveAsTemplate&#10;editor&#9;null&#9;null&#10;gutter&#9;ACTION&#9;ShowGutterIconsSettings&#10;data flow from&#9;ACTION&#9;SliceForward&#10;data flow&#9;ACTION&#9;SliceBackward&#10;tabs place&#9;ACTION&#9;TabsPlacementNone&#10;dataflow&#9;ACTION&#9;SliceBackward&#10;live tem&#9;null&#9;null&#10;save as live&#9;ACTION&#9;SaveAsTemplate&#10;main&#9;ACTION&#9;MainToolBar&#10;tabs&#9;ACTION&#9;TabsPlacementGroup&#10;line&#9;ACTION&#9;EditorToggleShowLineNumbers&#10;stringman&#9;ACTION&#9;osmedile.ManipulateStringGroup&#10;encode&#9;ACTION&#9;osmedile.intellij.stringmanip.EncodeBase64Action&#10;contract&#9;null&#9;null&#10;region&#9;null&#9;null&#10;manip&#9;ACTION&#9;osmedile.intellij.stringmanip.PopupChoiceAction&#10;sort&#9;ACTION&#9;StringManipulation.Sort&#10;ter&#9;ACTION&#9;ActivateTerminalToolWindow&#10;тфм&#9;ACTION&#9;ViewNavigationBar&#10;column se&#9;ACTION&#9;EditorToggleColumnMode&#10;naviga&#9;ACTION&#9;ViewNavigationBar&#10;data&#9;ACTION&#9;SliceForward&#10;data flo&#9;ACTION&#9;SliceBackward&#10;live te&#9;ACTION&#9;SaveAsTemplate&#10;navi&#9;ACTION&#9;ViewNavigationBar&#10;tool&#9;ACTION&#9;ViewToolBar&#10;tab place&#9;ACTION&#9;TabsPlacementNone&#10;refact&#9;ACTION&#9;Refactorings.QuickListPopupAction&#10;structural search in&#9;null&#9;null&#10;structural search inspection&#9;null&#9;null&#10;keyma&#9;null&#9;null&#10;keymap&#9;ACTION&#9;ChangeKeymap&#10;structura&#9;ACTION&#9;StructuralSearchPlugin.StructuralSearchAction&#10;live templates&#9;null&#9;null&#10;save as l&#9;ACTION&#9;SaveAsTemplate&#10;replace&#9;ACTION&#9;StructuralSearchPlugin.StructuralReplaceAction&#10;search str&#9;ACTION&#9;StructuralSearchPlugin.StructuralSearchAction&#10;imple&#9;ACTION&#9;GotoImplementation" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA&#10;kotlin&#10;JavaScript" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.jb" />
+      <recent name="org.jb.duplicates" />
+      <recent name="com.zt" />
+      <recent name="com.zt.jdk9" />
+      <recent name="com.zt.diamond.test" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="org.jb" />
+      <recent name="com.zt.engine" />
+      <recent name="com.zt" />
+      <recent name="com.zt.book" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.jb.inspect" />
+      <recent name="org.jb" />
+      <recent name="com.zt" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="org.jb.Blah" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.jb.duplicates" />
+      <recent name="com.zt" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/org/jb" />
+      <recent name="$PROJECT_DIR$/" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ls" />
+      <command value="skitch" />
+      <command value="idea" />
+      <command value="ls -la" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Tests">
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fib" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jb.Fib" />
+      <module name="standalone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="JUnit" factoryName="JUnit">
+      <module name="standalone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.jb" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Fib" />
+      <item itemvalue="JUnit.Tests" />
+    </list>
+  </component>
+  <component name="RuntimeDashboard">
+    <groupers>
+      <grouper name="TypeGroupingRule" enabled="true" />
+      <grouper name="StatusGroupingRule" enabled="true" />
+      <grouper name="FolderGroupingRule" enabled="true" />
+    </groupers>
+  </component>
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="string comparison to constant with null check" text="$param$ != null &amp;&amp; $param$.equals($str$)" recursive="false" caseInsensitive="true" type="JAVA">
+      <constraint name="str" nameOfExprType="java.lang.String" exprTypeWithinHierarchy="true" within="" contains="" />
+      <constraint name="param" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="all methods with String parameter" text="$ReturnType$ $Method$($LeftTypes$ $left$, $ParameterType$ $Parameter$, $RightTypes$ $rights$);" recursive="true" caseInsensitive="true" type="JAVA">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="ReturnType" within="" contains="" />
+      <constraint name="Method" within="" contains="" />
+      <constraint name="LeftTypes" within="" contains="" />
+      <constraint name="left" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="ParameterType" within="" contains="" />
+      <constraint name="Parameter" maxCount="2147483647" within="" contains="" />
+      <constraint name="RightTypes" within="" contains="" />
+      <constraint name="rights" minCount="0" maxCount="2147483647" within="" contains="" />
+    </searchConfiguration>
+    <replaceConfiguration name="blah" text="$ReturnType$ $Method$($LeftTypes$ $left$, $ParameterType$ $Parameter$, $RightTypes$ $rights$);" recursive="true" caseInsensitive="true" type="JAVA" reformatAccordingToStyle="false" shortenFQN="false" replacement="">
+      <constraint name="__context__" target="true" within="" contains="" />
+      <constraint name="ReturnType" within="" contains="" />
+      <constraint name="Method" within="" contains="" />
+      <constraint name="LeftTypes" within="" contains="" />
+      <constraint name="left" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="ParameterType" regexp="String" within="" contains="" />
+      <constraint name="Parameter" maxCount="2147483647" within="" contains="" />
+      <constraint name="RightTypes" within="" contains="" />
+      <constraint name="rights" minCount="0" maxCount="2147483647" within="" contains="" />
+    </replaceConfiguration>
+    <searchConfiguration name="all methods in class where at least one parameter is String" created="1557417470827" text="class $clazz$ implements Set, List {&#10;  &#10;}&#10;  &#10;" recursive="true" caseInsensitive="true" type="JAVA" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="clazz" regexp="Serializable" withinHierarchy="true" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="all methods in class where at least one parameter is String" created="1557417470828" text="class $clazz$ {&#10;  $ReturnType$ $Method$($LeftTypes$ $left$, $ParameterType$ $Parameter$, $RightTypes$ $rights$);&#10;}&#10;" recursive="true" caseInsensitive="true" type="JAVA" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="Method" target="true" within="" contains="" />
+      <constraint name="Parameter" within="" contains="" />
+      <constraint name="LeftTypes" within="" contains="" />
+      <constraint name="left" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="ParameterType" regexp="String" within="" contains="" />
+      <constraint name="RightTypes" within="" contains="" />
+      <constraint name="rights" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="ReturnType" within="" contains="" />
+      <constraint name="clazz" regexp="Serializable" withinHierarchy="true" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="all methods with String parameter" created="1557417470828" text="$ReturnType$ $Method$($LeftTypes$ $left$, $ParameterType$ $Parameter$, $RightTypes$ $rights$);" recursive="true" caseInsensitive="true" type="JAVA" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="ReturnType" within="" contains="" />
+      <constraint name="Method" target="true" within="" contains="" />
+      <constraint name="LeftTypes" within="" contains="" />
+      <constraint name="left" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="ParameterType" regexp="String" within="" contains="" />
+      <constraint name="Parameter" maxCount="2147483647" within="" contains="" />
+      <constraint name="RightTypes" within="" contains="" />
+      <constraint name="rights" minCount="0" maxCount="2147483647" within="" contains="" />
+    </searchConfiguration>
+    <replaceConfiguration name="all methods with String parameter" created="1557417470829" text="$ReturnType$ $Method$($LeftTypes$ $left$, $ParameterType$ $Parameter$, $RightTypes$ $rights$);" recursive="true" caseInsensitive="true" type="JAVA" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="false" shortenFQN="false" replacement="" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+      <constraint name="ReturnType" within="" contains="" />
+      <constraint name="Method" within="" contains="" />
+      <constraint name="LeftTypes" within="" contains="" />
+      <constraint name="left" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="ParameterType" regexp="String" within="" contains="" />
+      <constraint name="Parameter" maxCount="2147483647" within="" contains="" />
+      <constraint name="RightTypes" within="" contains="" />
+      <constraint name="rights" minCount="0" maxCount="2147483647" within="" contains="" />
+    </replaceConfiguration>
+    <searchConfiguration name="methods of the class" created="1557417470829" text="$ReturnType$ $Method$($ParameterType$ $Parameter$);" recursive="true" caseInsensitive="true" type="JAVA" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="ReturnType" within="" contains="" />
+      <constraint name="Method" within="" contains="" />
+      <constraint name="ParameterType" within="" contains="" />
+      <constraint name="Parameter" minCount="0" maxCount="2147483647" within="" contains="" />
+    </searchConfiguration>
+    <replaceConfiguration name="implementors of interface (within hierarchy)" created="1557417470829" text="class $Class$ implements Serializable {&#10;  $ReturnType$ $Method$($LeftTypes$ $left$, $ParameterType$ $Parameter$, $RightTypes$ $rights$){&#10;    $statement$;&#10;  }&#10;}" recursive="true" caseInsensitive="true" type="JAVA" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="false" shortenFQN="false" replacement="class $Class$ implements Serializable {&#10;  $ReturnType$ $Method$($LeftTypes$ $left$, $ParameterType$ $Parameter$, $RightTypes$ $rights$){&#10;    $statement$;&#10;  }&#10;}" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="Class" within="" contains="" />
+      <constraint name="ReturnType" within="" contains="" />
+      <constraint name="Method" target="true" within="" contains="" />
+      <constraint name="LeftTypes" within="" contains="" />
+      <constraint name="left" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="ParameterType" regexp="String" within="" contains="" />
+      <constraint name="Parameter" maxCount="2147483647" within="" contains="" />
+      <constraint name="RightTypes" within="" contains="" />
+      <constraint name="rights" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="statement" minCount="0" maxCount="2147483647" within="" contains="" />
+    </replaceConfiguration>
+    <replaceConfiguration name="implementors of interface (within hierarchy)" created="1557417470829" text="class $Class$ implements Serializable {&#10;  $ReturnType$ $Method$($LeftTypes$ $left$, $ParameterType$ $Parameter$, $RightTypes$ $rights$){&#10;    $statement$;&#10;  }&#10;}" recursive="true" caseInsensitive="true" type="JAVA" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="false" shortenFQN="false" replacement="$ReturnType$ $Method$($LeftTypes$ $left$, $ParameterType$ $Parameter$){&#10;  $statement$;&#10;}&#10;" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="Class" within="" contains="" />
+      <constraint name="ReturnType" within="" contains="" />
+      <constraint name="Method" minCount="0" maxCount="2147483647" target="true" within="" contains="" />
+      <constraint name="LeftTypes" within="" contains="" />
+      <constraint name="left" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="ParameterType" regexp="String" within="" contains="" />
+      <constraint name="Parameter" maxCount="2147483647" within="" contains="" />
+      <constraint name="RightTypes" within="" contains="" />
+      <constraint name="rights" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="statement" minCount="0" maxCount="2147483647" within="" contains="" />
+    </replaceConfiguration>
+    <replaceConfiguration name="implementors of interface (within hierarchy)" created="1557417470829" text="class $Class$ implements Serializable {&#10;  $ReturnType$ $Method$($LeftTypes$ $left$, $ParameterType$ $Parameter$, $RightTypes$ $rights$){&#10;    $statement$;&#10;  }&#10;}" recursive="true" caseInsensitive="true" type="JAVA" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="false" shortenFQN="false" replacement="&#10;$ReturnType$ $Method$($LeftTypes$ $left$, $ParameterType$ $Parameter$){&#10;  $statement$;&#10;}&#10;" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="Class" within="" contains="" />
+      <constraint name="ReturnType" within="" contains="" />
+      <constraint name="Method" minCount="0" maxCount="2147483647" target="true" within="" contains="" />
+      <constraint name="LeftTypes" within="" contains="" />
+      <constraint name="left" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="ParameterType" regexp="String" within="" contains="" />
+      <constraint name="Parameter" maxCount="2147483647" within="" contains="" />
+      <constraint name="RightTypes" within="" contains="" />
+      <constraint name="rights" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="statement" minCount="0" maxCount="2147483647" within="" contains="" />
+    </replaceConfiguration>
+    <replaceConfiguration name="implementors of interface (within hierarchy)" created="1557417470829" text="class $Class$ implements Serializable {&#10;  $ReturnType$ $Method$($LeftTypes$ $left$, $ParameterType$ $Parameter$, $RightTypes$ $rights$);&#10;}" recursive="true" caseInsensitive="true" type="JAVA" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="false" shortenFQN="false" replacement="&#10;$ReturnType$ $Method$($LeftTypes$ $left$, $ParameterType$ $Parameter$);&#10;" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="Class" within="" contains="" />
+      <constraint name="ReturnType" within="" contains="" />
+      <constraint name="Method" minCount="0" maxCount="2147483647" target="true" within="" contains="" />
+      <constraint name="LeftTypes" within="" contains="" />
+      <constraint name="left" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="ParameterType" regexp="String" within="" contains="" />
+      <constraint name="Parameter" maxCount="2147483647" within="" contains="" />
+      <constraint name="RightTypes" within="" contains="" />
+      <constraint name="rights" minCount="0" maxCount="2147483647" within="" contains="" />
+    </replaceConfiguration>
+    <replaceConfiguration name="implementors of interface (within hierarchy)" created="1557417470829" text="class $Class$ implements Serializable {&#10;  $ReturnType$ $Method$($LeftTypes$ $left$, $ParameterType$ $Parameter$, $RightTypes$ $rights$);&#10;}" recursive="true" caseInsensitive="true" type="JAVA" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="false" shortenFQN="false" replacement="class $Class$ implements Serializable {&#10;  $ReturnType$ $Method$($LeftTypes$ $left$, $ParameterType$ $Parameter$);&#10;}" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="Class" within="" contains="" />
+      <constraint name="ReturnType" within="" contains="" />
+      <constraint name="Method" minCount="0" maxCount="2147483647" target="true" within="" contains="" />
+      <constraint name="LeftTypes" within="" contains="" />
+      <constraint name="left" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="ParameterType" regexp="String" within="" contains="" />
+      <constraint name="Parameter" maxCount="2147483647" within="" contains="" />
+      <constraint name="RightTypes" within="" contains="" />
+      <constraint name="rights" minCount="0" maxCount="2147483647" within="" contains="" />
+    </replaceConfiguration>
+    <searchConfiguration name="implementors of interface (within hierarchy)" created="1557417470829" text="class $Class$ implements Serializable {&#10;  $ReturnType$ $Method$($LeftTypes$ $left$, $ParameterType$ $Parameter$, $RightTypes$ $rights$);&#10;}" recursive="true" caseInsensitive="true" type="JAVA" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="Class" within="" contains="" />
+      <constraint name="ReturnType" within="" contains="" />
+      <constraint name="Method" minCount="0" maxCount="2147483647" target="true" within="" contains="" />
+      <constraint name="LeftTypes" within="" contains="" />
+      <constraint name="left" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="ParameterType" regexp="String" within="" contains="" />
+      <constraint name="Parameter" maxCount="2147483647" within="" contains="" />
+      <constraint name="RightTypes" within="" contains="" />
+      <constraint name="rights" minCount="0" maxCount="2147483647" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="all fields of the class" created="1557417470829" text="$ReturnType$ $Method$($LeftTypes$ $left$, $ParameterType$ $Parameter$, $RightTypes$ $rights$);&#10;" recursive="true" caseInsensitive="true" type="JAVA" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" target="true" within="" contains="" />
+      <constraint name="ReturnType" regexp="void" within="" contains="" />
+      <constraint name="Method" within="" contains="" />
+      <constraint name="LeftTypes" within="" contains="" />
+      <constraint name="left" minCount="0" maxCount="2147483647" within="" contains="" />
+      <constraint name="ParameterType" regexp="String" within="" contains="" />
+      <constraint name="Parameter" maxCount="2147483647" within="" contains="" />
+      <constraint name="RightTypes" within="" contains="" />
+      <constraint name="rights" minCount="0" maxCount="2147483647" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="all fields of the class" created="1557417470829" text="class $Class$ { &#10;  $FieldType$ $Field$ = $Init$;&#10;}" recursive="true" caseInsensitive="true" type="JAVA" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+      <constraint name="Class" within="" contains="" />
+      <constraint name="FieldType" within="" contains="" />
+      <constraint name="Field" withinHierarchy="true" maxCount="2147483647" target="true" within="" contains="" />
+      <constraint name="Init" minCount="0" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1557417470829" text="$param$ != null &amp;&amp; $param$.equals($str$)" recursive="false" caseInsensitive="true" type="JAVA" history="1">
+      <constraint name="param" within="" contains="" />
+      <constraint name="str" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1557417470829" text="$str$.equals(&quot;$constant$&quot;)" recursive="false" caseInsensitive="true" type="JAVA" history="1">
+      <constraint name="str" nameOfExprType="java.lang.String" exprTypeWithinHierarchy="true" within="" contains="" />
+      <constraint name="constant" exprTypeWithinHierarchy="true" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1557417470829" text="$str$.equals($constant$)" recursive="false" caseInsensitive="true" type="JAVA" history="1">
+      <constraint name="__context__" nameOfExprType="java.lang.String" exprTypeWithinHierarchy="true" target="true" within="" contains="" />
+      <constraint name="str" nameOfExprType="java.lang.String" exprTypeWithinHierarchy="true" within="" contains="" />
+      <constraint name="constant" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1557417470829" text="$anystring$" recursive="false" caseInsensitive="true" type="JAVA" history="1">
+      <constraint name="anystring" within="" contains="" />
+      <constraint name="__context__" nameOfExprType="java.lang.String" exprTypeWithinHierarchy="true" target="true" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1557417470829" text="&quot;$anystring$&quot;" recursive="false" caseInsensitive="true" type="JAVA" history="1">
+      <constraint name="anystring" within="" contains="" />
+      <constraint name="__context__" nameOfExprType="java.lang.String" exprTypeWithinHierarchy="true" target="true" within="" contains="" />
+    </searchConfiguration>
+    <replaceConfiguration name="user defined" created="1557417470829" text="$param$ != null &amp;&amp; $param$.equals($str$)&#10;" recursive="false" caseInsensitive="true" type="JAVA" reformatAccordingToStyle="true" shortenFQN="true" useStaticImport="true" replacement="$str$.equals($param$)  &#10;" history="1">
+      <constraint name="param" nameOfExprType="java.lang.String" exprTypeWithinHierarchy="true" within="" contains="" />
+      <constraint name="str" within="" contains="" />
+    </replaceConfiguration>
+    <searchConfiguration name="user defined" created="1557417470829" text="$param$ != null &amp;&amp; $param$.equals($str$)&#10;" recursive="true" caseInsensitive="true" type="JAVA" history="1">
+      <constraint name="param" within="" contains="" />
+      <constraint name="str" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1557417470829" text="if ($param$ != null &amp;&amp; $param$.equals($str$)) {&#10;  &#10;}" recursive="true" caseInsensitive="true" type="JAVA" history="1">
+      <constraint name="param" within="" contains="" />
+      <constraint name="str" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1557417470829" text="if ($param$ != null &amp;&amp; $param$.equals($str$)) {&#10;   $stmt$;&#10;}" recursive="true" caseInsensitive="true" type="JAVA" history="1">
+      <constraint name="param" within="" contains="" />
+      <constraint name="str" within="" contains="" />
+      <constraint name="stmt" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1557417470829" text="if ($param$ != null &amp;&amp; $param$.equals($str$)) {&#10;&#10;}" recursive="true" caseInsensitive="true" type="JAVA" history="1">
+      <constraint name="param" within="" contains="" />
+      <constraint name="str" within="" contains="" />
+    </searchConfiguration>
+    <searchConfiguration name="user defined" created="1557417470829" text="$Statement$;" recursive="true" caseInsensitive="true" type="JAVA" history="1">
+      <constraint name="Statement" within="" contains="" />
+    </searchConfiguration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34334dd9-318a-4d1a-a075-7cc839b61202" name="Default" comment="" />
+      <created>1430231530172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489087811951</updated>
+      <workItem from="1430231531604" duration="14000" />
+      <workItem from="1433022760867" duration="1441000" />
+      <workItem from="1442482454474" duration="3177000" />
+      <workItem from="1442531600777" duration="694000" />
+      <workItem from="1442563677547" duration="258000" />
+      <workItem from="1442839522795" duration="449000" />
+      <workItem from="1442862019458" duration="543000" />
+      <workItem from="1443177200578" duration="938000" />
+      <workItem from="1443305082564" duration="821000" />
+      <workItem from="1443521975646" duration="145000" />
+      <workItem from="1444829372589" duration="31000" />
+      <workItem from="1445421466760" duration="224000" />
+      <workItem from="1445436792804" duration="2952000" />
+      <workItem from="1445754987813" duration="219000" />
+      <workItem from="1446053255175" duration="1236000" />
+      <workItem from="1446128837645" duration="14000" />
+      <workItem from="1446135792892" duration="85000" />
+      <workItem from="1446661111900" duration="456000" />
+      <workItem from="1446721729866" duration="755000" />
+      <workItem from="1449497099709" duration="1221000" />
+      <workItem from="1450989022060" duration="1074000" />
+      <workItem from="1451572954666" duration="1202000" />
+      <workItem from="1452084679294" duration="396000" />
+      <workItem from="1453119848326" duration="502000" />
+      <workItem from="1456969012105" duration="2174000" />
+      <workItem from="1457392018512" duration="305000" />
+      <workItem from="1457522660233" duration="7000" />
+      <workItem from="1458301852751" duration="1177000" />
+      <workItem from="1461016506109" duration="1589000" />
+      <workItem from="1461156198903" duration="4012000" />
+      <workItem from="1464822390510" duration="342000" />
+      <workItem from="1464822806971" duration="1079000" />
+      <workItem from="1464975112762" duration="3635000" />
+      <workItem from="1465248056551" duration="486000" />
+      <workItem from="1466746926752" duration="1075000" />
+      <workItem from="1466763052748" duration="339000" />
+      <workItem from="1467746416532" duration="3962000" />
+      <workItem from="1468349048130" duration="336000" />
+      <workItem from="1468575199554" duration="1741000" />
+      <workItem from="1468829887239" duration="6000" />
+      <workItem from="1469107149211" duration="170000" />
+      <workItem from="1469125040944" duration="165000" />
+      <workItem from="1469125209337" duration="3000" />
+      <workItem from="1469483985435" duration="812000" />
+      <workItem from="1470780550587" duration="163000" />
+      <workItem from="1471131879546" duration="913000" />
+      <workItem from="1471205138611" duration="759000" />
+      <workItem from="1471206816876" duration="69000" />
+      <workItem from="1471207063220" duration="46000" />
+      <workItem from="1471207128682" duration="58000" />
+      <workItem from="1471208015429" duration="1398000" />
+      <workItem from="1471209761886" duration="2754000" />
+      <workItem from="1471466288302" duration="1140000" />
+      <workItem from="1471473571679" duration="415000" />
+      <workItem from="1471476040705" duration="38000" />
+      <workItem from="1471476106117" duration="153000" />
+      <workItem from="1471476304910" duration="404000" />
+      <workItem from="1472591165999" duration="1444000" />
+      <workItem from="1473335581281" duration="166000" />
+      <workItem from="1473371493761" duration="98000" />
+      <workItem from="1473371645271" duration="91000" />
+      <workItem from="1473422102827" duration="596000" />
+      <workItem from="1473430990042" duration="2662000" />
+      <workItem from="1473797135809" duration="1256000" />
+      <workItem from="1473941230200" duration="694000" />
+      <workItem from="1474148283200" duration="5093000" />
+      <workItem from="1474192947627" duration="2952000" />
+      <workItem from="1474407770008" duration="1675000" />
+      <workItem from="1474575952047" duration="125000" />
+      <workItem from="1474576427266" duration="7000" />
+      <workItem from="1474722842941" duration="23000" />
+      <workItem from="1475008123244" duration="553000" />
+      <workItem from="1475072056066" duration="1720000" />
+      <workItem from="1475186418854" duration="273000" />
+      <workItem from="1475441663367" duration="1086000" />
+      <workItem from="1475518158536" duration="3929000" />
+      <workItem from="1475869101882" duration="177000" />
+      <workItem from="1485726401682" duration="77000" />
+      <workItem from="1485726533672" duration="37000" />
+      <workItem from="1485726636384" duration="658000" />
+      <workItem from="1485727303073" duration="23000" />
+      <workItem from="1485727401398" duration="475000" />
+      <workItem from="1519223825777" duration="2453000" />
+      <workItem from="1519335780785" duration="1073000" />
+      <workItem from="1521735668543" duration="286000" />
+      <workItem from="1521798360389" duration="279000" />
+      <workItem from="1521803483534" duration="678000" />
+      <workItem from="1522175292187" duration="2707000" />
+      <workItem from="1522179768615" duration="50000" />
+      <workItem from="1522240335254" duration="3000" />
+      <workItem from="1522919365084" duration="637000" />
+      <workItem from="1522938386741" duration="1238000" />
+      <workItem from="1522939734700" duration="5556000" />
+      <workItem from="1523001282400" duration="608000" />
+      <workItem from="1523312425772" duration="132000" />
+      <workItem from="1523370693056" duration="1246000" />
+      <workItem from="1523403163599" duration="2655000" />
+      <workItem from="1523432843083" duration="928000" />
+      <workItem from="1523437083483" duration="2616000" />
+      <workItem from="1523657028336" duration="869000" />
+      <workItem from="1523725174875" duration="596000" />
+      <workItem from="1523875769044" duration="2927000" />
+      <workItem from="1524069313596" duration="993000" />
+      <workItem from="1524085184419" duration="447000" />
+      <workItem from="1526934120301" duration="327000" />
+      <workItem from="1527011793195" duration="176000" />
+      <workItem from="1527106162409" duration="369000" />
+      <workItem from="1527106690213" duration="357000" />
+      <workItem from="1527183037858" duration="1693000" />
+      <workItem from="1527256349557" duration="1408000" />
+      <workItem from="1527287918778" duration="579000" />
+      <workItem from="1527454299352" duration="167000" />
+      <workItem from="1527594912452" duration="265000" />
+      <workItem from="1527603615467" duration="1257000" />
+      <workItem from="1528872789908" duration="4355000" />
+      <workItem from="1530057025850" duration="30000" />
+      <workItem from="1530277898341" duration="503000" />
+      <workItem from="1530278447754" duration="132000" />
+      <workItem from="1530279352325" duration="923000" />
+      <workItem from="1532613262118" duration="367000" />
+      <workItem from="1532724454185" duration="30000" />
+      <workItem from="1533802372989" duration="2000000" />
+      <workItem from="1534693042705" duration="357000" />
+      <workItem from="1537957320639" duration="1619000" />
+      <workItem from="1537962041222" duration="4448000" />
+      <workItem from="1538584808079" duration="1565000" />
+      <workItem from="1539705810308" duration="1649000" />
+      <workItem from="1540287219250" duration="175000" />
+      <workItem from="1540287435373" duration="6629000" />
+      <workItem from="1540473406487" duration="7022000" />
+      <workItem from="1540484955558" duration="2660000" />
+      <workItem from="1540507142251" duration="1182000" />
+      <workItem from="1540549666860" duration="1882000" />
+      <workItem from="1540635561476" duration="1714000" />
+      <workItem from="1541086341155" duration="6003000" />
+      <workItem from="1541119874131" duration="582000" />
+      <workItem from="1541167124435" duration="1452000" />
+      <workItem from="1541168772232" duration="958000" />
+      <workItem from="1541234842106" duration="233000" />
+      <workItem from="1541235109040" duration="6476000" />
+      <workItem from="1541276965487" duration="672000" />
+      <workItem from="1541318691626" duration="3495000" />
+      <workItem from="1541339010889" duration="801000" />
+      <workItem from="1541365709750" duration="4000" />
+      <workItem from="1541365718415" duration="33000" />
+      <workItem from="1541365793521" duration="2964000" />
+      <workItem from="1541369405992" duration="160000" />
+      <workItem from="1541415681666" duration="3860000" />
+      <workItem from="1541563454201" duration="1220000" />
+      <workItem from="1541604016878" duration="185000" />
+      <workItem from="1542696878707" duration="1440000" />
+      <workItem from="1542845744969" duration="304000" />
+      <workItem from="1542975231247" duration="3614000" />
+      <workItem from="1542989126221" duration="896000" />
+      <workItem from="1543069935672" duration="3067000" />
+      <workItem from="1543073369696" duration="1784000" />
+      <workItem from="1543166081764" duration="4741000" />
+      <workItem from="1543224032934" duration="4627000" />
+      <workItem from="1543308984458" duration="5098000" />
+      <workItem from="1543314761635" duration="2220000" />
+      <workItem from="1543334147365" duration="5846000" />
+      <workItem from="1543518043611" duration="183000" />
+      <workItem from="1543518232015" duration="244000" />
+      <workItem from="1543584892994" duration="723000" />
+      <workItem from="1543671488748" duration="212000" />
+      <workItem from="1543745057785" duration="155000" />
+      <workItem from="1543849191999" duration="789000" />
+      <workItem from="1544110602100" duration="230000" />
+      <workItem from="1544129831984" duration="309000" />
+      <workItem from="1544519884580" duration="880000" />
+      <workItem from="1544690875218" duration="6128000" />
+      <workItem from="1544885866763" duration="4440000" />
+      <workItem from="1545864912528" duration="394000" />
+      <workItem from="1545990848408" duration="290000" />
+      <workItem from="1546549438570" duration="878000" />
+      <workItem from="1548270317835" duration="183000" />
+      <workItem from="1548276742882" duration="9090000" />
+      <workItem from="1549955846441" duration="2461000" />
+      <workItem from="1550277762573" duration="695000" />
+      <workItem from="1550787563731" duration="389000" />
+      <workItem from="1550787962812" duration="4252000" />
+      <workItem from="1550874819975" duration="1217000" />
+      <workItem from="1550876178375" duration="2870000" />
+      <workItem from="1550880046721" duration="212000" />
+      <workItem from="1550918091046" duration="11661000" />
+      <workItem from="1551012601572" duration="283000" />
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestAgain - 2019.05.07 at 18h 44m 43s.xml">
+      <configuration name="TestAgain" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAgain - 2019.05.07 at 18h 44m 51s.xml">
+      <configuration name="TestAgain" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="org_jb_in_standalone - 2019.05.07 at 18h 45m 05s.xml">
+      <configuration name="org.jb in standalone" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAgain - 2019.05.08 at 11h 09m 50s.xml">
+      <configuration name="TestAgain" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAgain - 2019.05.08 at 11h 09m 56s.xml">
+      <configuration name="TestAgain" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAgain - 2019.05.08 at 11h 10m 07s.xml">
+      <configuration name="TestAgain" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAgain - 2019.05.08 at 11h 10m 27s.xml">
+      <configuration name="TestAgain" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAgain - 2019.05.08 at 11h 11m 01s.xml">
+      <configuration name="TestAgain" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAgain - 2019.05.08 at 11h 11m 06s.xml">
+      <configuration name="TestAgain" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAgain - 2019.05.08 at 11h 12m 56s.xml">
+      <configuration name="TestAgain" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="263182000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="820" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5192308" visible="true" weight="0.17095852" />
+      <window_info id="Structure" order="1" sideWeight="0.48076922" side_tool="true" weight="0.2546495" />
+      <window_info id="Stardust" order="2" show_stripe_button="false" />
+      <window_info id="Nl-Palette" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Designer" order="7" />
+      <window_info id="Favorites" order="8" sideWeight="0.47664836" side_tool="true" weight="0.22246066" />
+      <window_info id="JRebel" order="9" sideWeight="0.45890412" side_tool="true" weight="0.18454936" />
+      <window_info anchor="bottom" id="Duplicates" order="0" weight="0.60401005" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.496875" weight="0.5576923" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49029127" weight="0.6328321" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6620879" />
+      <window_info anchor="bottom" id="Analyze Dataflow from" order="4" weight="0.37637362" />
+      <window_info anchor="bottom" id="Problems" order="5" weight="0.32692307" />
+      <window_info anchor="bottom" x="22" y="315" width="1396" height="238" id="TODO" order="6" sideWeight="0.49478078" weight="0.34203297" />
+      <window_info anchor="bottom" id="Analyze Dataflow to" order="7" sideWeight="0.49120235" weight="0.5412088" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.47802198" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5047529" side_tool="true" weight="0.35851648" />
+      <window_info anchor="bottom" id="JRebel Console" order="13" side_tool="true" weight="0.32739726" />
+      <window_info anchor="bottom" id="Application Servers" order="14" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" weight="0.3016129" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" />
+      <window_info anchor="bottom" id="Messages" order="17" sideWeight="0.49676898" weight="0.42857143" />
+      <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Fluid" order="19" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="20" sideWeight="0.48125" weight="0.358396" />
+      <window_info anchor="bottom" id="JProfiler" order="21" />
+      <window_info anchor="bottom" id="Metrics" order="22" weight="0.32967034" />
+      <window_info anchor="bottom" id="JRebel remote servers log" order="23" side_tool="true" weight="0.32884902" />
+      <window_info active="true" anchor="bottom" id="Chronon" order="24" visible="true" weight="0.44634527" />
+      <window_info anchor="bottom" id="GhcMod" order="25" />
+      <window_info anchor="bottom" id="Version Control" order="26" sideWeight="0.49524716" weight="0.35851648" />
+      <window_info anchor="bottom" id="Docker" order="27" show_stripe_button="false" weight="0.32819074" />
+      <window_info anchor="bottom" id="TeamCity" order="28" />
+      <window_info anchor="bottom" id="Extract Method" order="29" weight="0.7678937" />
+      <window_info anchor="bottom" id="Reviews" order="30" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="31" weight="0.32967034" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.29399142" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32808024" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32800853" />
+      <window_info anchor="right" id="Kotlin Bytecode" order="9" />
+      <window_info anchor="right" id="REPL" order="10" side_tool="true" />
+      <window_info anchor="right" id="Leiningen" order="11" />
+      <window_info anchor="right" id="Memory View" order="12" />
+      <window_info anchor="right" id="Cabal" order="13" />
+      <window_info anchor="right" x="150" y="120" width="1080" height="535" id="Byte Code Viewer" order="14" type="FLOATING" />
+      <window_info anchor="right" id="ASM" order="15" weight="0.5071531" />
+      <window_info anchor="right" id="Palette&#9;" order="16" />
+      <window_info anchor="right" id="Dynamic Properties" order="17" />
+      <window_info anchor="right" x="0" y="0" width="310" height="622" id="Documentation" order="18" side_tool="true" weight="0.36666667" />
+      <window_info anchor="right" id="Google Cloud Storage" order="19" />
+      <window_info anchor="right" id="Maven" order="20" weight="0.34620887" />
+      <window_info anchor="right" id="News Feed" order="21" />
+      <window_info anchor="right" id="Key Promoter X" order="22" />
+      <window_info anchor="right" x="100" y="123" width="1240" height="620" id="DSM" order="23" type="FLOATING" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5192308" visible="true" weight="0.2546495" />
+      <window_info id="Structure" order="1" sideWeight="0.48076922" side_tool="true" weight="0.2546495" />
+      <window_info id="Stardust" order="2" show_stripe_button="false" />
+      <window_info id="Nl-Palette" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Designer" order="7" />
+      <window_info id="Favorites" order="8" sideWeight="0.47664836" side_tool="true" weight="0.22246066" />
+      <window_info id="JRebel" order="9" sideWeight="0.45890412" side_tool="true" weight="0.18454936" />
+      <window_info anchor="bottom" id="Duplicates" order="0" weight="0.60401005" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.496875" weight="0.5576923" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49029127" weight="0.6328321" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.7760989" />
+      <window_info anchor="bottom" id="Analyze Dataflow from" order="4" weight="0.37637362" />
+      <window_info anchor="bottom" id="Problems" order="5" weight="0.32692307" />
+      <window_info anchor="bottom" x="22" y="315" width="1396" height="238" id="TODO" order="6" sideWeight="0.49478078" weight="0.34203297" />
+      <window_info anchor="bottom" id="Analyze Dataflow to" order="7" sideWeight="0.49120235" weight="0.5412088" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.47802198" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5047529" side_tool="true" weight="0.35851648" />
+      <window_info anchor="bottom" id="JRebel Console" order="13" side_tool="true" weight="0.32739726" />
+      <window_info anchor="bottom" id="Application Servers" order="14" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" weight="0.3016129" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" />
+      <window_info anchor="bottom" id="Messages" order="17" sideWeight="0.49676898" weight="0.42857143" />
+      <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Fluid" order="19" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="20" sideWeight="0.48125" weight="0.358396" />
+      <window_info anchor="bottom" id="JProfiler" order="21" />
+      <window_info anchor="bottom" id="Metrics" order="22" weight="0.32967034" />
+      <window_info anchor="bottom" id="JRebel remote servers log" order="23" side_tool="true" weight="0.32884902" />
+      <window_info active="true" anchor="bottom" id="Chronon" order="24" visible="true" weight="0.44634527" />
+      <window_info anchor="bottom" id="GhcMod" order="25" />
+      <window_info anchor="bottom" id="Version Control" order="26" sideWeight="0.49524716" weight="0.35851648" />
+      <window_info anchor="bottom" id="Docker" order="27" show_stripe_button="false" weight="0.32819074" />
+      <window_info anchor="bottom" id="TeamCity" order="28" />
+      <window_info anchor="bottom" id="Extract Method" order="29" weight="0.7678937" />
+      <window_info anchor="bottom" id="Reviews" order="30" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="31" weight="0.32967034" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.29399142" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32808024" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32800853" />
+      <window_info anchor="right" id="Kotlin Bytecode" order="9" />
+      <window_info anchor="right" id="REPL" order="10" side_tool="true" />
+      <window_info anchor="right" id="Leiningen" order="11" />
+      <window_info anchor="right" id="Memory View" order="12" />
+      <window_info anchor="right" id="Cabal" order="13" />
+      <window_info anchor="right" x="150" y="120" width="1080" height="535" id="Byte Code Viewer" order="14" type="FLOATING" />
+      <window_info anchor="right" id="ASM" order="15" weight="0.5071531" />
+      <window_info anchor="right" id="Palette&#9;" order="16" />
+      <window_info anchor="right" id="Dynamic Properties" order="17" />
+      <window_info anchor="right" x="0" y="0" width="310" height="622" id="Documentation" order="18" side_tool="true" weight="0.36666667" />
+      <window_info anchor="right" id="Google Cloud Storage" order="19" />
+      <window_info anchor="right" id="Maven" order="20" weight="0.34620887" />
+      <window_info anchor="right" id="News Feed" order="21" />
+      <window_info anchor="right" id="Key Promoter X" order="22" />
+      <window_info anchor="right" x="100" y="123" width="1240" height="620" id="DSM" order="23" type="FLOATING" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.configurationType" implementationName="NodeJSConfigurationType" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="clean state" />
+    <MESSAGE value="ignore" />
+    <MESSAGE value="vcs.xml" />
+    <MESSAGE value="cleanup" />
+    <MESSAGE value="adding workspace file" />
+    <MESSAGE value="leaner gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="leaner gitignore" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history>
+      <element expression="/this/is/my/xml/file/@class" />
+      <element expression="/this/is/my/xml/file/@classe" />
+      <element expression="/this/is/my/xml/file/" />
+      <element expression="/this/is/my/xml/file/@aaa='blah'" />
+    </history>
+    <find-history>
+      <element expression="/this/my/xml/example/@aaa" />
+      <element expression="/this/my/xml/example" />
+      <element expression="/this/my/xml[@id='1']/example" />
+      <element expression="/this/my/xml[@id='1']/example[@aaa='blah3']" />
+    </find-history>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="standalone" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="standalone" />
+        <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.sixrr.metrics.MetricsReloaded">
+    <option name="selectedProfile" value="" />
+    <option name="autoscroll" value="false" />
+    <option name="showOnlyWarnings" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>Arrays.stream(array).forEach(System.out::println)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>!line.isEmpty()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>line.isEmpty()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="throwExceptionValue">
+      <expression>
+        <expression-string>new NullPointerException(&quot;asdasd&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new NullPointerException(&quot;hehe!&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="breakpointLogExpression">
+      <expression>
+        <expression-string>line</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>strings</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;sdfsadf&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;Debug&gt;&gt;&quot; + fibonacciLoop(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.Arrays</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>b</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>blah</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/org/jb/inspect/ThisIsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/jb/inspect/Meta.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/jb/inspect/ThisIs.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/jb/exp/Def.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/jb/debug/Debug.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/jb/debug/DebugOne.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/jb/debug/DebugTwo.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/jb/engine/Car.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/jb/engine/CountingHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/jb/engine/Engine.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/jb/engine/UsagesOfUsages.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/jb/engine/V8.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/jb/engine/V12.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaDayLviv.kt" />
+    <entry file="file://$PROJECT_DIR$/src/org/jb/Tricks.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/jb/Reader2.java" />
+    <entry file="file://$PROJECT_DIR$/some.file" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/My_Project_Inspections.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="144" column="12" selection-start-line="144" selection-start-column="12" selection-end-line="144" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" />
+    <entry file="file://$PROJECT_DIR$/standalone.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jb/MyEnum.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/jb/Reader.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/jb/ThisIs.java" />
+    <entry file="file://$PROJECT_DIR$/test/org/jb/ThisIsTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Menlo.java" />
+    <entry file="file://$PROJECT_DIR$/file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jb/DataFlowInspections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <marker date="1553535895153" expanded="true" signature="217:269" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jb/HintsForMethodChains.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/some.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/some.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jb/inspections/Switch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jb/inspections/StringExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jb/Fib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jb/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="53" column="41" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
+          <folding>
+            <element signature="e#17#43#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jb/inspections/Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jb/DataFlow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-end-line="11" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Agenda.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/org/jb/SomeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="469" column="20" lean-forward="true" selection-start-line="469" selection-start-column="20" selection-end-line="469" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.4.13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>standalone</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>KotlinJavaRuntime</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>My Sope (org.jb.inspect)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="My Sope (org.jb.inspect)" />
+          </order>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
