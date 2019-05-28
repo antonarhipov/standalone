@@ -27,7 +27,9 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34334dd9-318a-4d1a-a075-7cc839b61202" name="Default" comment="leaner gitignore" />
+    <list default="true" id="34334dd9-318a-4d1a-a075-7cc839b61202" name="Default" comment="language level = 11">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="standalone.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -73,10 +75,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="315">
+              <caret line="382" column="37" selection-start-line="382" selection-start-column="37" selection-end-line="382" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -234,26 +236,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="standalone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="standalone" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="standalone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="standalone" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="standalone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'My Sope (org.jb.inspect)'; set:src:org.jb.inspect.*; class com.intellij.psi.search.scope.packageSet.NamedScope">
           <expand>
@@ -321,6 +303,26 @@
               <item name="org" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="jb" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="debug" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="standalone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="standalone" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
@@ -421,7 +423,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Tests">
+  <component name="RunManager" selected="JUnit.SomeTest">
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
@@ -451,6 +453,39 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SomeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="standalone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.jb" />
+      <option name="MAIN_CLASS_NAME" value="org.jb.SomeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SomeTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="standalone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.jb" />
+      <option name="MAIN_CLASS_NAME" value="org.jb.SomeTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -526,7 +561,15 @@
     <list>
       <item itemvalue="Application.Fib" />
       <item itemvalue="JUnit.Tests" />
+      <item itemvalue="JUnit.SomeTest.test2" />
+      <item itemvalue="JUnit.SomeTest" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SomeTest" />
+        <item itemvalue="JUnit.SomeTest.test2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="RuntimeDashboard">
     <groupers>
@@ -992,8 +1035,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="820" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5192308" visible="true" weight="0.17095852" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5192308" visible="true" weight="0.17310444" />
       <window_info id="Structure" order="1" sideWeight="0.48076922" side_tool="true" weight="0.2546495" />
       <window_info id="Stardust" order="2" show_stripe_button="false" />
       <window_info id="Nl-Palette" order="3" />
@@ -1023,7 +1067,7 @@
       <window_info anchor="bottom" id="Messages" order="17" sideWeight="0.49676898" weight="0.42857143" />
       <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
       <window_info anchor="bottom" id="Fluid" order="19" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="20" sideWeight="0.48125" weight="0.358396" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="20" sideWeight="0.48125" visible="true" weight="0.24587911" />
       <window_info anchor="bottom" id="JProfiler" order="21" />
       <window_info anchor="bottom" id="Metrics" order="22" weight="0.32967034" />
       <window_info anchor="bottom" id="JRebel remote servers log" order="23" side_tool="true" weight="0.32884902" />
@@ -1150,7 +1194,8 @@
     <MESSAGE value="cleanup" />
     <MESSAGE value="adding workspace file" />
     <MESSAGE value="leaner gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="leaner gitignore" />
+    <MESSAGE value="language level = 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="language level = 11" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history>
@@ -1372,9 +1417,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -1455,13 +1498,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-173">
-          <caret line="469" column="20" lean-forward="true" selection-start-line="469" selection-start-column="20" selection-end-line="469" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1472,6 +1508,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="382" column="37" selection-start-line="382" selection-start-column="37" selection-end-line="382" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -1533,7 +1576,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
