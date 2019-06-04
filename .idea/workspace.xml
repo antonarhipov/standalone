@@ -5,8 +5,8 @@
     <option name="CUSTOM_SCOPE_NAME" value="My Sope (org.jb.inspect)" />
   </component>
   <component name="BuildServerSettings">
-    <option name="LOGIN" value="" />
-    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="LOGIN" value="admin" />
+    <option name="SERVER_URL" value="http://localhost:8111" />
     <option name="REMEMBER_ME" value="true" />
     <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
     <option name="INSPECTIONS_BUILD_TYPE_IDS" />
@@ -25,10 +25,50 @@
     <option name="SHOW_CLOSE_PROMPT" value="true" />
     <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <SELECTED_PROJECT id="project44" />
+    <SELECTED_TYPE id="bt115" />
+    <treeState key="selectConfigurations.run">
+      <expandedPath>
+        <pathElement>
+          <option name="myNodeId" value="project44" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.ProjectDescriptor" />
+        </pathElement>
+      </expandedPath>
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="project44" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.ProjectDescriptor" />
+        </pathElement>
+        <pathElement>
+          <option name="myNodeId" value="bt115" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.BuildTypeDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
+    <treeState key="project">
+      <expandedPath>
+        <pathElement>
+          <option name="myNodeId" value="project44" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.ProjectDescriptor" />
+        </pathElement>
+      </expandedPath>
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="project44" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.ProjectDescriptor" />
+        </pathElement>
+        <pathElement>
+          <option name="myNodeId" value="bt115" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.BuildTypeDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34334dd9-318a-4d1a-a075-7cc839b61202" name="Default" comment="language level = 11">
+    <list default="true" id="34334dd9-318a-4d1a-a075-7cc839b61202" name="Default" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/jb/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/jb/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/org/jb/SomeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/org/jb/SomeTest.java" afterDir="false" />
     </list>
     <ignored path="standalone.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,10 +115,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+        <entry file="file://$PROJECT_DIR$/some.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="382" column="37" selection-start-line="382" selection-start-column="37" selection-end-line="382" selection-end-column="37" />
+            <state relative-caret-position="216">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -91,10 +131,10 @@
         <option value="Kotlin File" />
         <option value="JUnit4 Test Class" />
         <option value="AnnotationType" />
-        <option value="Interface" />
-        <option value="Class" />
         <option value="JavaScript File" />
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -140,8 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Person.java" />
-        <option value="$PROJECT_DIR$/src/Books.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.kts" />
         <option value="$PROJECT_DIR$/src/blah.js" />
@@ -171,7 +209,6 @@
         <option value="$PROJECT_DIR$/src/org/jb/Reader.java" />
         <option value="$PROJECT_DIR$/file.txt" />
         <option value="$PROJECT_DIR$/src/org/jb/DataFlowInspections.java" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/some.file" />
         <option value="$PROJECT_DIR$/src/org/jb/ThisIs.java" />
         <option value="$PROJECT_DIR$/src/Menlo.java" />
@@ -183,14 +220,17 @@
         <option value="$PROJECT_DIR$/src/org/jb/MyEnum.java" />
         <option value="$PROJECT_DIR$/src/org/jb/HintsForMethodChains.java" />
         <option value="$PROJECT_DIR$/src/org/jb/inspections/Switch.java" />
-        <option value="$PROJECT_DIR$/src/org/jb/inspections/StringExample.java" />
-        <option value="$PROJECT_DIR$/src/org/jb/Main.java" />
         <option value="$PROJECT_DIR$/test/org/jb/TestAgain.java" />
         <option value="$PROJECT_DIR$/src/org/jb/inspections/Sequence.java" />
         <option value="$PROJECT_DIR$/src/org/jb/DataFlow.java" />
-        <option value="$PROJECT_DIR$/test/org/jb/SomeTest.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/org/jb/inspections/StringExample.java" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/org/jb/Heinz.java" />
+        <option value="$PROJECT_DIR$/test/org/jb/SomeTest.java" />
+        <option value="$PROJECT_DIR$/src/org/jb/Main.java" />
+        <option value="$PROJECT_DIR$/some.xml" />
       </list>
     </option>
   </component>
@@ -235,7 +275,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'My Sope (org.jb.inspect)'; set:src:org.jb.inspect.*; class com.intellij.psi.search.scope.packageSet.NamedScope">
           <expand>
@@ -308,6 +347,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -318,11 +358,31 @@
             <path>
               <item name="standalone" type="b2602c69:ProjectViewProjectNode" />
               <item name="standalone" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="standalone" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jb" type="462c0819:PsiDirectoryNode" />
+              <item name="inspections" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="standalone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="standalone" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="jb" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -365,16 +425,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="org.jb" />
-      <recent name="org.jb.duplicates" />
-      <recent name="com.zt" />
-      <recent name="com.zt.jdk9" />
-      <recent name="com.zt.diamond.test" />
-    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="org.jb" />
       <recent name="com.zt.engine" />
@@ -392,15 +445,22 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="org.jb.duplicates" />
-      <recent name="com.zt" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/org/jb" />
       <recent name="$PROJECT_DIR$/" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.jb.duplicates" />
+      <recent name="com.zt" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.jb" />
+      <recent name="org.jb.duplicates" />
+      <recent name="com.zt" />
+      <recent name="com.zt.jdk9" />
+      <recent name="com.zt.diamond.test" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -423,7 +483,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SomeTest">
+  <component name="RunManager" selected="JUnit.SomeTest.testing">
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
@@ -451,13 +511,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Heinz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jb.Heinz" />
+      <module name="standalone" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jb.Main" />
+      <module name="standalone" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SomeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SomeTest.testing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="standalone" />
       <extension name="coverage">
         <pattern>
@@ -467,23 +555,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.jb" />
       <option name="MAIN_CLASS_NAME" value="org.jb.SomeTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SomeTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="standalone" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.jb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.jb" />
-      <option name="MAIN_CLASS_NAME" value="org.jb.SomeTest" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="METHOD_NAME" value="testing" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -560,14 +632,16 @@
     </configuration>
     <list>
       <item itemvalue="Application.Fib" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Heinz" />
       <item itemvalue="JUnit.Tests" />
-      <item itemvalue="JUnit.SomeTest.test2" />
-      <item itemvalue="JUnit.SomeTest" />
+      <item itemvalue="JUnit.SomeTest.testing" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SomeTest" />
-        <item itemvalue="JUnit.SomeTest.test2" />
+        <item itemvalue="JUnit.SomeTest.testing" />
+        <item itemvalue="Application.Heinz" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -990,12 +1064,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestAgain - 2019.05.07 at 18h 44m 43s.xml">
-      <configuration name="TestAgain" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestAgain - 2019.05.07 at 18h 44m 51s.xml">
-      <configuration name="TestAgain" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="org_jb_in_standalone - 2019.05.07 at 18h 45m 05s.xml">
       <configuration name="org.jb in standalone" configurationId="JUnit" />
     </history-entry>
@@ -1020,6 +1088,12 @@
     <history-entry file="TestAgain - 2019.05.08 at 11h 12m 56s.xml">
       <configuration name="TestAgain" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SomeTest - 2019.05.28 at 10h 57m 46s.xml">
+      <configuration name="SomeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SomeTest_testing - 2019.05.30 at 00h 20m 01s.xml">
+      <configuration name="SomeTest.testing" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="263182000" />
@@ -1037,7 +1111,7 @@
     <frame x="0" y="23" width="1440" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5192308" visible="true" weight="0.17310444" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5200501" visible="true" weight="0.27753934" />
       <window_info id="Structure" order="1" sideWeight="0.48076922" side_tool="true" weight="0.2546495" />
       <window_info id="Stardust" order="2" show_stripe_button="false" />
       <window_info id="Nl-Palette" order="3" />
@@ -1045,16 +1119,16 @@
       <window_info id="Image Layers" order="5" />
       <window_info id="UI Designer" order="6" />
       <window_info id="Designer" order="7" />
-      <window_info id="Favorites" order="8" sideWeight="0.47664836" side_tool="true" weight="0.22246066" />
+      <window_info id="Favorites" order="8" sideWeight="0.47994986" side_tool="true" weight="0.21805556" />
       <window_info id="JRebel" order="9" sideWeight="0.45890412" side_tool="true" weight="0.18454936" />
       <window_info anchor="bottom" id="Duplicates" order="0" weight="0.60401005" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.496875" weight="0.5576923" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49029127" weight="0.6328321" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.6620879" />
-      <window_info anchor="bottom" id="Analyze Dataflow from" order="4" weight="0.37637362" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49029127" weight="0.4107143" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.654185" />
+      <window_info anchor="bottom" id="Analyze Dataflow from" order="4" weight="0.37627813" />
       <window_info anchor="bottom" id="Problems" order="5" weight="0.32692307" />
       <window_info anchor="bottom" x="22" y="315" width="1396" height="238" id="TODO" order="6" sideWeight="0.49478078" weight="0.34203297" />
-      <window_info anchor="bottom" id="Analyze Dataflow to" order="7" sideWeight="0.49120235" weight="0.5412088" />
+      <window_info anchor="bottom" id="Analyze Dataflow to" order="7" sideWeight="0.49120235" weight="0.5408998" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.47802198" />
       <window_info anchor="bottom" id="Message" order="9" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
@@ -1067,7 +1141,7 @@
       <window_info anchor="bottom" id="Messages" order="17" sideWeight="0.49676898" weight="0.42857143" />
       <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
       <window_info anchor="bottom" id="Fluid" order="19" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="20" sideWeight="0.48125" visible="true" weight="0.24587911" />
+      <window_info anchor="bottom" id="Terminal" order="20" sideWeight="0.48125" weight="0.24539877" />
       <window_info anchor="bottom" id="JProfiler" order="21" />
       <window_info anchor="bottom" id="Metrics" order="22" weight="0.32967034" />
       <window_info anchor="bottom" id="JRebel remote servers log" order="23" side_tool="true" weight="0.32884902" />
@@ -1075,7 +1149,7 @@
       <window_info anchor="bottom" id="GhcMod" order="25" />
       <window_info anchor="bottom" id="Version Control" order="26" sideWeight="0.49524716" weight="0.35851648" />
       <window_info anchor="bottom" id="Docker" order="27" show_stripe_button="false" weight="0.32819074" />
-      <window_info anchor="bottom" id="TeamCity" order="28" />
+      <window_info anchor="bottom" id="TeamCity" order="28" weight="0.50549453" />
       <window_info anchor="bottom" id="Extract Method" order="29" weight="0.7678937" />
       <window_info anchor="bottom" id="Reviews" order="30" />
       <window_info anchor="bottom" id="Dependency Viewer" order="31" weight="0.32967034" />
@@ -1099,13 +1173,13 @@
       <window_info anchor="right" id="Dynamic Properties" order="17" />
       <window_info anchor="right" x="0" y="0" width="310" height="622" id="Documentation" order="18" side_tool="true" weight="0.36666667" />
       <window_info anchor="right" id="Google Cloud Storage" order="19" />
-      <window_info anchor="right" id="Maven" order="20" weight="0.34620887" />
+      <window_info anchor="right" id="Maven" order="20" weight="0.34583333" />
       <window_info anchor="right" id="News Feed" order="21" />
       <window_info anchor="right" id="Key Promoter X" order="22" />
       <window_info anchor="right" x="100" y="123" width="1240" height="620" id="DSM" order="23" type="FLOATING" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5192308" visible="true" weight="0.2546495" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5200501" visible="true" weight="0.1970181" />
       <window_info id="Structure" order="1" sideWeight="0.48076922" side_tool="true" weight="0.2546495" />
       <window_info id="Stardust" order="2" show_stripe_button="false" />
       <window_info id="Nl-Palette" order="3" />
@@ -1113,12 +1187,12 @@
       <window_info id="Image Layers" order="5" />
       <window_info id="UI Designer" order="6" />
       <window_info id="Designer" order="7" />
-      <window_info id="Favorites" order="8" sideWeight="0.47664836" side_tool="true" weight="0.22246066" />
+      <window_info id="Favorites" order="8" sideWeight="0.47994986" side_tool="true" weight="0.21805556" />
       <window_info id="JRebel" order="9" sideWeight="0.45890412" side_tool="true" weight="0.18454936" />
       <window_info anchor="bottom" id="Duplicates" order="0" weight="0.60401005" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.496875" weight="0.5576923" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49029127" weight="0.6328321" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.7760989" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49029127" weight="0.6318681" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.654185" />
       <window_info anchor="bottom" id="Analyze Dataflow from" order="4" weight="0.37637362" />
       <window_info anchor="bottom" id="Problems" order="5" weight="0.32692307" />
       <window_info anchor="bottom" x="22" y="315" width="1396" height="238" id="TODO" order="6" sideWeight="0.49478078" weight="0.34203297" />
@@ -1135,7 +1209,7 @@
       <window_info anchor="bottom" id="Messages" order="17" sideWeight="0.49676898" weight="0.42857143" />
       <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
       <window_info anchor="bottom" id="Fluid" order="19" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="20" sideWeight="0.48125" weight="0.358396" />
+      <window_info anchor="bottom" id="Terminal" order="20" sideWeight="0.48125" weight="0.24539877" />
       <window_info anchor="bottom" id="JProfiler" order="21" />
       <window_info anchor="bottom" id="Metrics" order="22" weight="0.32967034" />
       <window_info anchor="bottom" id="JRebel remote servers log" order="23" side_tool="true" weight="0.32884902" />
@@ -1143,7 +1217,7 @@
       <window_info anchor="bottom" id="GhcMod" order="25" />
       <window_info anchor="bottom" id="Version Control" order="26" sideWeight="0.49524716" weight="0.35851648" />
       <window_info anchor="bottom" id="Docker" order="27" show_stripe_button="false" weight="0.32819074" />
-      <window_info anchor="bottom" id="TeamCity" order="28" />
+      <window_info anchor="bottom" id="TeamCity" order="28" weight="0.50549453" />
       <window_info anchor="bottom" id="Extract Method" order="29" weight="0.7678937" />
       <window_info anchor="bottom" id="Reviews" order="30" />
       <window_info anchor="bottom" id="Dependency Viewer" order="31" weight="0.32967034" />
@@ -1167,7 +1241,7 @@
       <window_info anchor="right" id="Dynamic Properties" order="17" />
       <window_info anchor="right" x="0" y="0" width="310" height="622" id="Documentation" order="18" side_tool="true" weight="0.36666667" />
       <window_info anchor="right" id="Google Cloud Storage" order="19" />
-      <window_info anchor="right" id="Maven" order="20" weight="0.34620887" />
+      <window_info anchor="right" id="Maven" order="20" weight="0.34583333" />
       <window_info anchor="right" id="News Feed" order="21" />
       <window_info anchor="right" id="Key Promoter X" order="22" />
       <window_info anchor="right" x="100" y="123" width="1240" height="620" id="DSM" order="23" type="FLOATING" />
@@ -1195,7 +1269,10 @@
     <MESSAGE value="adding workspace file" />
     <MESSAGE value="leaner gitignore" />
     <MESSAGE value="language level = 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="language level = 11" />
+    <MESSAGE value="language level = 8" />
+    <MESSAGE value="testing stuff" />
+    <MESSAGE value="adding one more test" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding one more test" />
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history>
@@ -1314,9 +1391,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/org/jb/inspect/ThisIsTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/jb/inspect/Meta.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/jb/inspect/ThisIs.java" />
     <entry file="file://$PROJECT_DIR$/src/org/jb/exp/Def.java" />
     <entry file="file://$PROJECT_DIR$/src/org/jb/debug/Debug.java" />
     <entry file="file://$PROJECT_DIR$/src/org/jb/debug/DebugOne.java" />
@@ -1338,7 +1412,6 @@
     <entry file="file://$PROJECT_DIR$/src/org/jb/Tricks.java" />
     <entry file="file://$PROJECT_DIR$/src/org/jb/Reader2.java" />
     <entry file="file://$PROJECT_DIR$/some.file" />
-    <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -1375,7 +1448,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/jb/MyEnum.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/jb/Reader.java" />
     <entry file="file://$PROJECT_DIR$/src/org/jb/ThisIs.java" />
     <entry file="file://$PROJECT_DIR$/test/org/jb/ThisIsTest.java" />
     <entry file="file://$PROJECT_DIR$/src/Menlo.java" />
@@ -1400,13 +1472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/some.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -1439,13 +1504,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/jb/inspections/StringExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-39">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/jb/Fib.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1453,48 +1511,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/jb/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="53" column="41" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
-          <folding>
-            <element signature="e#17#43#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/jb/inspections/Sequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/jb/DataFlow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-end-line="11" />
-          <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Agenda.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/org/jb/SomeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -1513,8 +1533,114 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="382" column="37" selection-start-line="382" selection-start-column="37" selection-end-line="382" selection-end-column="37" />
+        <state relative-caret-position="3897">
+          <caret line="384" column="37" selection-start-line="384" selection-start-column="37" selection-end-line="384" selection-end-column="37" />
+          <folding>
+            <element signature="e#5552#5558#0" expanded="true" />
+            <element signature="e#5559#5565#0" expanded="true" />
+            <element signature="e#75788#75794#0" expanded="true" />
+            <element signature="e#75800#75806#0" expanded="true" />
+            <element signature="e#76013#76019#0" expanded="true" />
+            <element signature="e#76024#76030#0" expanded="true" />
+            <element signature="e#76651#76657#0" expanded="true" />
+            <element signature="e#76664#76670#0" expanded="true" />
+            <element signature="e#76851#76857#0" expanded="true" />
+            <element signature="e#76862#76866#0" expanded="true" />
+            <element signature="e#76866#76870#0" expanded="true" />
+            <element signature="e#76870#76876#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jb/inspections/StringExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Agenda.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jb/DataFlow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#874#875#0" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jb/Heinz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jb/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jb/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/org/jb/SomeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/some.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/some.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -1576,6 +1702,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
